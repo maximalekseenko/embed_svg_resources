@@ -1,0 +1,1 @@
+# embed_svg_resources
